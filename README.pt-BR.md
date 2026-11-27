@@ -106,11 +106,7 @@ O tema está centralizado em `lib/core/theme.dart`. As cores derivam de uma úni
 
 ## Mais templates
 
-Este template faz parte do catálogo em https://template.dev.br, que lista os templates gratuitos e pagos com previews.
-
-## Apoie o projeto
-
-As doações mantêm os templates gratuitos atualizados e compatíveis com as novas versões do Flutter. Se este template foi útil para você, contribua com qualquer valor em https://template.dev.br/doar?template=flutter-dashboard.
+Mais templates gratuitos (painéis admin, sistemas por segmento e apps Flutter): https://github.com/danilo62x?tab=repositories
 
 ## Licença
 
